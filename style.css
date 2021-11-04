@@ -36,6 +36,10 @@ footer {
 
 /* specifieke stijlen */
 
+#SRB-img {
+    height:170px;
+}
+
 img.zweefLinks {
     float: left;
     margin-right: 15px;
@@ -58,8 +62,8 @@ a:hover {
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: auto;
-    padding: 0;
+    margin: 0px 100px;
+    padding: 0px;
     background-color: #dddddd;
     overflow: hidden;
 }
