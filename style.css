@@ -40,7 +40,12 @@ footer {
     height:170px;
 }
 
+img.zweefrechts{
+    float: right;
+    height: 170px;
+}
 img.zweefLinks {
+    height:170px;
     float: left;
     margin-right: 15px;
 }
