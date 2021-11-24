@@ -36,15 +36,16 @@ footer {
 
 /* specifieke stijlen */
 
-#SRB-img {
-    height:170px;
+.img {
+    width: 250px;
 }
 
 img.zweefrechts{
     float: right;
     height: 170px;
+    margin-left: 15px;
 }
-img.zweefLinks {
+img.zweeflinks {
     height:170px;
     float: left;
     margin-right: 15px;
