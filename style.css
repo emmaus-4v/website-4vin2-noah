@@ -36,6 +36,12 @@ footer {
 
 /* specifieke stijlen */
 
+#thrust{
+    height: 200px;
+}
+
+
+
 .img {
     width: 250px;
 }
