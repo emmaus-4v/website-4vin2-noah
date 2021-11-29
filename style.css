@@ -3,10 +3,11 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #727272;  
+    background-color: #505050;  
     
-    color: #303030;
+    color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
+    
 }
 
 
@@ -22,8 +23,8 @@ article {
 }
 
 
-header {
-    color: rgb(0, 0, 0);
+h1 {
+    
     text-align: center;
 }
 
