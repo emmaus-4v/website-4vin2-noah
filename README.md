@@ -33,8 +33,8 @@ Stap 4: Inhoud en plaatjes
 - [ ] Je hebt plaatjes bij je inhoud gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
 
 Stap 5: Kleuren 
-- [ ] Je hebt kleuren en fonts gekozen. 
-- [ ] Je hebt de kleuren en fonts in CSS toegevoegd. 
+- [x] Je hebt kleuren en fonts gekozen. 
+- [x] Je hebt de kleuren en fonts in CSS toegevoegd. 
 
 Stap 6: Perfectioneren 
 - [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
