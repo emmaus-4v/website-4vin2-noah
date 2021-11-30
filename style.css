@@ -7,7 +7,7 @@ html, body {
     
     color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
-    
+    font-family: monospace;
 }
 
 
@@ -42,6 +42,9 @@ footer {
 }
 
 
+.subtitle{
+font-size: larger
+}
 
 .img {
     width: 250px;
@@ -75,7 +78,8 @@ a:hover {
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: 0px 100px;
+    width:fit-content;
+    margin: auto;
     padding: 0px;
     background-color: #dddddd;
     overflow: hidden;
