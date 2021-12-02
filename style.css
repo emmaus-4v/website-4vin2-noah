@@ -6,7 +6,7 @@ html, body {
     background-color: #505050;  
     background-image: url("afbeeldingen/SpaceX-Starship-SN9.jpeg");
     background-repeat: no-repeat;
-    background-size: 150%;
+    background-size: 100%;
     background-position-y: top;
     
     
@@ -37,8 +37,10 @@ h1 {
 
 
 footer {
+    color: rgb(0, 0, 0);
     text-align: center;
     padding-bottom: 10px;
+    
 }
 
 
