@@ -9,11 +9,13 @@ html, body {
     height: 100%;
     padding: 0;
     background-color: #505050;  
-    /*background-image: url("afbeeldingen/SpaceX-Starship-SN9.jpeg");
+    /*
+    background-image: url("afbeeldingen/SpaceX-Starship-SN9.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: center;*/
-    
+    background-position-y: center;
+    */
+    /*achtergrond nu in div met class achtergrond voor fixed pos. hier nog als backup mocht de andere manier niet meer werken door latere toevoegingen.*/
     
     color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
