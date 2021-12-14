@@ -105,6 +105,10 @@ img.zweeflinks {
     font-size: 0.7em;
 }
 
+.videolink{
+    color: #ff0080;
+}
+
 a {
     color: skyblue;
     text-decoration: none;
