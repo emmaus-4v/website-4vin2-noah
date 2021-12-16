@@ -80,7 +80,10 @@ footer {
     height: 200px;
 }
 
-
+#video-rechts{
+float: right;
+padding:8px;
+}
 
 .subtitle{
 font-size: larger
@@ -107,6 +110,12 @@ img.zweeflinks {
 
 .videolink{
     color: #ff0080;
+    opacity: 0.4;
+    transition: 2s;
+}
+
+.videolink:hover{
+ opacity: 1;
 }
 
 a {
@@ -143,12 +152,18 @@ nav li a {
 
 nav li a:hover {
     background-color: #aaaaaaa9;
+    text-decoration: underline;
+    transition: 1.5s;
 }
 
 nav li a.active {
-    background-color: rgb(238, 109, 4);
+    background-color: rgb(214, 99, 3);
 }
 
+nav li a.active:hover{
+    background-color: rgb(255, 115, 0);
+    transition: 1.5s;
+}
 
 
 
